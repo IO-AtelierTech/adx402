@@ -4,3 +4,6 @@
 [submodule "npmskd"]
 	path = npmskd
 	url = https://github.com/IO-AtelierTech/adx402-npmsdk
+[submodule "backend"]
+	path = backend
+	url = https://github.com/IO-AtelierTech/adx402-backend
