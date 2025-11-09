@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/IO-AtelierTech/adx420-frontend
+[submodule "npmskd"]
+	path = npmskd
+	url = https://github.com/IO-AtelierTech/adx402-npmsdk
